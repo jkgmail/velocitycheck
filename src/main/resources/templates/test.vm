@@ -1,0 +1,138 @@
+ #if($language eq 'HIN')आदेश ID#else#**#Order Id#end                                                                           
+ #if($language eq 'HIN')सबऑर्डर आईडी#else#**#Suborder Id#end                                                                     
+ #if($language eq 'HIN')रखा हे#else#**#Placed#end                                                                               
+ #if($language eq 'HIN')EST। प्रेषण#else#**#Est. Dispatch#end                                                                    
+ #if($language eq 'HIN')EST। वितरण#else#**#Est. Delivery#end                                                                   
+ #if($language eq 'HIN')पिकअप उपलब्ध है#else#**#Pickup Available#end                                                              
+ #if($language eq 'HIN')पिकअप उपलब्ध है#else#**#Pickup Available#end                                                              
+ #if($language eq 'HIN')पहुंचा दिया#else#**#Delivered#end                                                                          
+ #if($language eq 'HIN')स्थिति#else#**#Status#end                                                                                 
+ #if($language eq 'HIN')स्थिति#else#**#Status#end                                                                                 
+ #if($language eq 'HIN')ट्रैक कूरियर#else#**#Track Courier#end                                                                     
+ #if($language eq 'HIN')संदेशवाहक#else#**#Courier#end                                                                            
+ #if($language eq 'HIN')एडब्ल्यूबी#else#**#AWB#end                                                                                  
+ #if($language eq 'HIN')भुगतान की जानकारी#else#**##end                                                                              
+ #if($language eq 'HIN')स्टोर नाम#else#**#storeName#end                                                                           
+ #if($language eq 'HIN')पता#else#**#Addresst#end
+ #if($language eq 'HIN')संपर्क व्यक्ति#else#**#Contact Person#end                                                                     
+ #if($language eq 'HIN')संपर्क संख्या#else#**#Contact Numb#end                                                                       
+ #if($language eq 'HIN')समय#else#**#Timingsend
+ #if($language eq 'HIN')ग्राहक सूचना#else#**#English text#end                                                                      
+ #if($language eq 'HIN')ईमेल#else#**#Email#end                                                                                 
+ #if($language eq 'HIN')मोबाइल#else#**#Mobile#end                                                                               
+ #if($language eq 'HIN')hindi रंग#else#**#Color#end                                                                            
+ #if($language eq 'HIN')प्रकार#else#**#Variant#end                                                                               
+ #if($language eq 'HIN')ऋण लागू#else#**#Loan Applied#end                                                                        
+ #if($language eq 'HIN')बीमा लागू#else#**#Insurance Applied#end                                                                   
+ #if($language eq 'HIN')यूआरएल#else#**#Url#end                                                                                 
+ #if($language eq 'HIN')पूर्व। शोरूम की कीमत#else#**#Ex. Showroom Price#end                                                          
+ #if($language eq 'HIN')ऑटोमोबाइल जानकारी#else#**#Automobile Information#end                                                        
+ #if($language eq 'HIN')डीलर जानकारी#else#**#Dealer Information#end                                                               
+ #if($language eq 'HIN')पिकअप सूचना#else#**#Pickup Information#end                                                               
+ #if($language eq 'HIN')डीलर जानकारी#else#**#Dealer Info#end                                                                      
+ #if($language eq 'HIN')पिकअप जानकारी#else#**#Pickup Info#end                                                                     
+ http://snapdeal-res.cloudinary.com/                                                                                          
+ #if($language eq 'HIN')यूनिट मूल्य#else#**#Unit Price#end                                                                         
+ #if($language eq 'HIN')पहुंचाने का शुल्क#else#**#Delivery Charges#end                                                                
+ #if($language eq 'HIN')छूट#else#**#Discount#end                                                                               
+ #if($language eq 'HIN')भुगतान की गई राशि#else#**#Amount Paid#end                                                                  
+ #if($language eq 'HIN')प्रभावी मूल्य#else#**#Effective Price#end                                                                    
+ #if($language eq 'HIN')नकदी वापस#else#**#Cashback#end                                                                          
+ #if($language eq 'HIN')कूरियर सूचना#else#**#Courier Information#end                                                              
+ #if($language eq 'HIN')स्थिति#else#**#Status#end                                                                                 
+ 011-66786500                                                                                                                 
+ 6                                                                                                                            
+ App/Website                                                                                                                  
+ 10,000 INR                                                                                                                   
+ 10,000 INR                                                                                                                   
+                                                                                                                              
+ http://54.169.156.29:7003/                                                                                                   
+ A/C No                                                                                                                       
+ IFSC Number                                                                                                                  
+ Name                                                                                                                         
+ http://m.exclusively.com/                                                                                                    
+ http://snapdeal.com/                                                                                                         
+ #if($language eq 'HIN')रद्द#else#**#Cancelled#end                                                                              
+ #if($language eq 'HIN')बन्द है#else#**#Closed#end                                                                               
+ #if($language eq 'HIN')लौटाया हुआ#else#**#Returned#end                                                                           
+ #if($language eq 'HIN')जगह ले ली#else#**#Replaced#end                                                                          
+ #if($language eq 'HIN')वापसी की शुरुआत कीt#else#**#Refund Initiated#end                                                            
+ #if($language eq 'HIN')ए / सी नंबर#else#**#A/C Number#end                                                                      
+ #if($language eq 'HIN')मोबाइल नंबर#else#**#Mobile Number#end                                                                    
+ #if($language eq 'HIN')कार्ड के प्रकार#else#**#Card Type#end                                                                        
+ #if($language eq 'HIN')कार्ड नंबर#else#**#Card Number#end                                                                        
+ #if($language eq 'HIN')बैंक#else#**#Bank#end                                                                                   
+ #if($language eq 'HIN')लेनदेन संदर्भ संख्या#else#**#Transaction Reference Numbe#end                                                   
+ #if($language eq 'HIN')EST। द्वारा रिफंड किया गया#else#**#Est. Refunded By#end                                                        
+ #if($language eq 'HIN')वापसी की गई है#else#**#Refunded#end                                                                       
+ #if($language eq 'HIN')कार्ड नंबर#else#**#Card Number#end                                                                        
+ #if($language eq 'HIN')EST। स्थापना#else#**#Est. Installation#end
+ #if($language eq 'HIN')स्थापना अनुसूचित#else#**#Installation Scheduled#end                                                          
+ #if($language eq 'HIN')स्थापना हो गई#else#**#Installation Done#end
+ #if($language eq 'HIN')30 मिनिट#else#**#30 Minutes#end                                                                         
+ #if($language eq 'HIN')सेवा सक्रिय#else#**#Service Activated#end                                                                  
+ #if($language eq 'HIN')का अनुरोध किया#else#**#Requested#end                                                                       
+ #if($language eq 'HIN')अनुरोध का अनुरोध#else#**#Request Declined#end                                                              
+ #if($language eq 'HIN')EST। द्वारा रिफंड#else#**#Est. Refund by#end                                                                
+ #if($language eq 'HIN')EST। द्वारा प्रतिस्थापन#else#**#Est. Replacement by#end                                                         
+ #if($language eq 'HIN')अनुमानित पिकअप तिथि#else#**#Estimated PickUp Date#end                                                       
+ #if($language eq 'HIN')अनुमानित वापसी तिथि#else#**#Estimated Refund Date#end                                                        
+ #if($language eq 'HIN')जगह ले ली#else#**#Replaced#end                                                                          
+ #if($language eq 'HIN')EST। द्वारा प्रतिस्थापन#else#**#Est. Replacement by#end                                                         
+ #if($language eq 'HIN')EST। वितरण#else#**#Est. Delivery#end                                                                   
+ #if($language eq 'HIN')एस्ट डिलीवरी#else#**#Est Delivery#end                                                                      
+ #if($language eq 'HIN')अनुमानित पिकअप#else#**#Estimated Pickup#end                                                               
+ #if($language eq 'HIN')वापसी अनुरोध बंद कर दिया#else#**#Return Request Closed On#end                                                
+ #if($language eq 'HIN')प्रतिस्थापन अनुरोध पर बंद हुआ#else#**#Replacement Request Closed On#end                                         
+ #if($language eq 'HIN')EST। वितरण#else#**#Est. Delivery#end                                                                   
+ #if($language eq 'HIN')EST। द्वारा पिकअप#else#**#Est. Pickup by#end                                                               
+ Replacement Initiated by                                                                                                     
+ #if($language eq 'HIN')द्वारा आइटम भेजें#else#**#Send Item By#end                                                                   
+ #if($language eq 'HIN')अनुरोध प्राप्त हुआ#else#**#Request Received On#end                                                            
+ #if($language eq 'HIN')EST। रिफंड करके#else#**#Est. Refund By#end                                                               
+ #if($language eq 'HIN')सेवा केंद्र पर जाएं#else#**#Visit Service Centre By#end                                                       
+ #if($language eq 'HIN')अनुरोध पर बंद हुआ#else#**#Request Closed On#end                                                           
+ #if($language eq 'HIN')hindi text#else#**#Paid Using#end                                                                     
+ #if($language eq 'HIN')प्रति माह देय राशि#else#**#Amount Payable per month#end                                                      
+ #if($language eq 'HIN')hindi textअपडेट किया गया पता#else#**#Updated Address#end                                                   
+ #if($language eq 'HIN')सेल्फ पिकअप विवरण#else#**#Self Pickup Details#end                                                          
+ #if($language eq 'HIN')पिक-अप अनुसूचित#else#**#Pick-up Scheduled#end                                                             
+ #if($language eq 'HIN')EST। वितरणt#else#**#Est. Delivery#end                                                                  
+ #if($language eq 'HIN')AWB नंबर#else#**#AWB Number#end                                                                        
+ #if($language eq 'HIN')कूरियर विवरण#else#**#Courier Details#end                                                                 
+ #if($language eq 'HIN')फ़ोन#else#**#Phone#end                                                                                  
+ #if($language eq 'HIN')डिलीवरी की कोशिश की गई#else#**#Delivery Attempted#end                                                        
+ #if($language eq 'HIN')EST। वितरण#else#**#Est. Delivery#end#if($language eq 'HIN')EST। वितरण#else#**#Est. Delivery#end         
+ #if($language eq 'HIN')अंतिम बार प्रयास किया गया#else#**#Last Attempted On#end                                                        
+ #if($language eq 'HIN')पिकअप अनुसूचित#else#**#Pickup Scheduled On#end                                                            
+ #if($language eq 'HIN')प्रारंभ तिथि#else#**#Launch Date#end                                                                        
+ #if($language eq 'HIN')hindi text#else#**#DELIVERY SLOT#end                                                                  
+ #if($language eq 'HIN')उस पे रखा#else#**#Placed On#end                                                                         
+ #if($language eq 'HIN')नागा दान#else#**#Ngo Donation#end                                                                        
+ Redemption Instructions                                                                                                      
+ #if($language eq 'HIN')नियम और शर्तें#else#**#Terms And Conditions#end                                                            
+ #if($language eq 'HIN')कानूनी देशद्रोही#else#**#Legal Desclamer#end                                                                  
+ #if($language eq 'HIN')उत्पाद क्रमबद्ध विवरण#else#**#Product Sort Description#end                                                    
+ #if($language eq 'HIN')मज़हब#else#**#Denomination#end                                                                         
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')रिफंड की पहल#else#**#Refund Initiated By#end                                                             
+ #if($language eq 'HIN')रद्द करने की पहल की#else#**#Cancellation Initiated#end                                                     
+ #if($language eq 'HIN')का अनुरोध किया#else#**#Requested#end                                                                       
+ #if($language eq 'HIN')द्वारा संसाधित#else#**#Processed by#end                                                                      
+ #if($language eq 'HIN')द्वारा संसाधित#else#**#Processed by#end                                                                      
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')आरटीआई की तारीख#else#**#RTI Date#end                                                                      
+ #if($language eq 'HIN')RTN दिनांक#else#**#RTN Date#end                                                                          
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ On                                                                                                                           
+ #if($language eq 'HIN')वापसी का अनुरोध किया#else#**#Return requested on#end                                                         
+ #if($language eq 'HIN')पर शुरू किया गया#else#**#Initiated On#end                                                                  
+ #if($language eq 'HIN')रद्द करने की पहल की#else#**#Cancellation Initiated#end                                                     
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
+ #if($language eq 'HIN')दिनांक#else#**#On#end                                                                                    
